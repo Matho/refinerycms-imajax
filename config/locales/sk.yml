@@ -1,0 +1,21 @@
+sk:
+  refinery:
+    imajax:
+      uploading:
+        "Nahrávam..."
+      there_was:
+        "Nastala"
+      error:
+        "chyba"
+      should_be_smaller:
+        "by mal byť menší ako"
+      bytes_in_size:
+        "veľkosť v bajtoch"
+      image_type:
+        "by mal byť JPG, PNG alebo GIF"
+      uploaded:
+        "nahraný"
+      last_complete:
+        "Dokončené nahrávanie súboru"
+      uploaded_successfully:
+        "Úspešne nahrané súbory"
